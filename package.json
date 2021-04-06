@@ -1,0 +1,14 @@
+{
+  "name": "chunks-tracker",
+  "version": "1.0.0",
+  "description": "a small library to track chunks the [rollup](https://rollupjs.org/guide/en/) generates",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "rollup",
+    "chunks"
+  ],
+  "author": "ali_ahmed",
+  "license": "MIT",
+  "repository": "https://github.com/AliBasicCoder/chunks-tracker.git"
+}
