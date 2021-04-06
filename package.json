@@ -1,6 +1,6 @@
 {
   "name": "chunks-tracker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a small library to track chunks the [rollup](https://rollupjs.org/guide/en/) generates",
   "main": "index.js",
   "scripts": {},
